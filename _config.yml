@@ -22,8 +22,8 @@ title: Iqbwl
 email: admin@iqbwl.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sample Blog
-baseurl: "/jekyll" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jekyll.iqbwl.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iqbwlx
 github_username:  iqbwl
 
