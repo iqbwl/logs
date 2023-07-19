@@ -1,3 +1,3 @@
 # Jekyll
 
-https://jekyll.iqbwl.com
+https://logs.iqbwl.com
