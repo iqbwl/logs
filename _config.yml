@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Iqbwl
-email: admin@iqbwl.com
+email: ingfo@iqbwl.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sample Blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jekyll.iqbwl.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: iqbwlx
+url: "https://logs.iqbwl.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: iqbwlxd
 github_username:  iqbwl
 
 # Build settings
